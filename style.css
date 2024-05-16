@@ -3,11 +3,11 @@ body {
     background-color: #196d00;
     color: #ffffff;
     margin: 0;
-            padding: 0;
-            overflow-x: hidden;
+    padding: 0;
+    overflow-x: hidden;
 }
 .navbar {
-    background-color: #129b00;
+    background-color: #196d00 ;
 }
 .navbar-brand, .nav-link {
     color: #ffffff !important;
@@ -72,6 +72,7 @@ body {
 .menu-section h2 {
     text-align: center;
     margin-bottom: 20px;
+    position: relative;
 }
 .menu-section .container {
     display: flex;
@@ -173,9 +174,6 @@ h3 {
     width: 100%;
     line-height: 50px;
 }
-
-
-
 #copyright {
     text-align: center;
     width: 100%;
